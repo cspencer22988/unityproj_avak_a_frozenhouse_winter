@@ -1,0 +1,1290 @@
+{
+	"rooms": 
+		[
+			{
+				"r": "create_actors",
+				"actor_data": 
+					[
+						{
+							"actor_id": "IceSkating_Volume",
+							"components": 
+								[
+									{
+										"type": "volume_trigger",
+										"volume_data": 
+											[
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-33.1875,
+															-6.92,
+															-0.320000648
+														],
+													"extents": 
+														[
+															2.73750019,
+															5.475,
+															7.56919
+														],
+													"rotation": 
+														[
+															0,
+															-5.293396E-05,
+															0
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-31.4399986,
+															-6.92,
+															-0.4024992
+														],
+													"extents": 
+														[
+															2.46375012,
+															5.475,
+															7.36192
+														],
+													"rotation": 
+														[
+															0,
+															12.5,
+															0
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-34.5749969,
+															-6.92,
+															-0.45499897
+														],
+													"extents": 
+														[
+															2.21737456,
+															5.475,
+															7.563506
+														],
+													"rotation": 
+														[
+															0,
+															344.999969,
+															0
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-30,
+															-6.92,
+															-0.379999161
+														],
+													"extents": 
+														[
+															2.88258719,
+															5.475,
+															6.050807
+														],
+													"rotation": 
+														[
+															0,
+															35,
+															0
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-30.27,
+															-6.92,
+															-1.30250072
+														],
+													"extents": 
+														[
+															6.05343437,
+															5.475,
+															6.050807
+														],
+													"rotation": 
+														[
+															0,
+															4.99999857,
+															0
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-26.7449989,
+															-6.92,
+															-1.13000011
+														],
+													"extents": 
+														[
+															3.79257536,
+															5.475,
+															6.09921169
+														],
+													"rotation": 
+														[
+															0,
+															45.0000038,
+															0
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-35.34,
+															-6.92,
+															-0.470000267
+														],
+													"extents": 
+														[
+															2.43911362,
+															5.475,
+															6.807161
+														],
+													"rotation": 
+														[
+															0,
+															320,
+															0
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-36.3825,
+															-6.92,
+															-1.57250023
+														],
+													"extents": 
+														[
+															2.43911266,
+															5.475,
+															6.80715752
+														],
+													"rotation": 
+														[
+															0,
+															305,
+															0
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-38.2875,
+															-6.92,
+															-2.47249985
+														],
+													"extents": 
+														[
+															2.62274957,
+															5.475,
+															4.084297
+														],
+													"rotation": 
+														[
+															-1.965258E-06,
+															287.5,
+															-9.50240747E-07
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-38.88,
+															-6.92,
+															-4.5575
+														],
+													"extents": 
+														[
+															2.72100878,
+															5.475,
+															3.62525177
+														],
+													"rotation": 
+														[
+															-2.1442338E-06,
+															272.500031,
+															-4.092168E-07
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-36.329998,
+															-6.92,
+															-4.03250027
+														],
+													"extents": 
+														[
+															2.72101021,
+															5.475,
+															3.26273084
+														],
+													"rotation": 
+														[
+															-2.05621564E-06,
+															242.077148,
+															7.32920853E-07
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-38.6175,
+															-6.92,
+															-5.9225
+														],
+													"extents": 
+														[
+															2.72101521,
+															5.475,
+															2.93646073
+														],
+													"rotation": 
+														[
+															-1.4142762E-06,
+															212.0772,
+															1.66283462E-06
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-39.75,
+															-6.92,
+															-7.355
+														],
+													"extents": 
+														[
+															1.08840394,
+															5.475,
+															3.2888298
+														],
+													"rotation": 
+														[
+															-2.682854E-07,
+															344.999969,
+															-2.16638455E-06
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-38.392498,
+															-6.92,
+															-7.115
+														],
+													"extents": 
+														[
+															1.08840764,
+															5.475,
+															3.28883147
+														],
+													"rotation": 
+														[
+															1.47525282E-06,
+															212.0772,
+															-1.60898446E-06
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-43.4925,
+															-6.92,
+															-8.7575
+														],
+													"extents": 
+														[
+															1.19724774,
+															6.0225,
+															3.4398582
+														],
+													"rotation": 
+														[
+															0,
+															345.000031,
+															0
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-45.555,
+															-6.92,
+															-8.7575
+														],
+													"extents": 
+														[
+															4.310094,
+															6.0225,
+															3.6177156
+														],
+													"rotation": 
+														[
+															0,
+															0,
+															0
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-48.7125,
+															-6.92,
+															1.97500038
+														],
+													"extents": 
+														[
+															7.24095535,
+															6.0225,
+															4.341258
+														],
+													"rotation": 
+														[
+															0,
+															315.0001,
+															0
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-44.2575,
+															-6.92,
+															6.79749966
+														],
+													"extents": 
+														[
+															6.27622938,
+															6.0225,
+															4.341254
+														],
+													"rotation": 
+														[
+															0,
+															310,
+															0
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-40.98,
+															-6.92,
+															10.8999987
+														],
+													"extents": 
+														[
+															4.51888657,
+															6.0225,
+															4.341254
+														],
+													"rotation": 
+														[
+															0,
+															306.331146,
+															0
+														]
+												}
+											],
+										"trigger_type": "local",
+										"anim_set": "set_skatingonice",
+										"anim_set_priority": 0
+									},
+									{
+										"type": "net_actor_node",
+										"inputs": 
+											[
+												{
+													"input_port": "fire",
+													"actions": 
+														[
+															{
+																"a": "model_set_visible",
+																"uid": "local",
+																"p": 
+																	{
+																		"method": "Immediate",
+																		"visible": true
+																	}
+															},
+															{
+																"a": "model_animation",
+																"r": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"o": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"uid": "local",
+																"p": 
+																	{
+																		"name": "fire_anim",
+																		"wrap_mode": "once"
+																	}
+															},
+															{
+																"a": "model_animation",
+																"r": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"o": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"uid": "local",
+																"p": 
+																	{
+																		"name": "queued_anim",
+																		"wrap_mode": "once"
+																	}
+															},
+															{
+																"a": "model_animation",
+																"r": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"o": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"uid": "local",
+																"p": 
+																	{
+																		"name": "idle_anim",
+																		"wrap_mode": "once"
+																	}
+															},
+															{
+																"a": "model_set_visible",
+																"uid": "local",
+																"p": 
+																	{
+																		"method": "Immediate",
+																		"visible": false
+																	}
+															}
+														]
+												}
+											],
+										"outputs": 
+											[
+												{
+													"output_port": "volume_trigger_enter_any",
+													"cooldown": 2,
+													"output_port_data": 
+														[
+															{
+																"type": "local_wiring",
+																"actor_id": "EntranceEffects_Room0_a",
+																"input_port": "fire"
+															}
+														]
+												}
+											]
+									},
+									{
+										"type": "model",
+										"version": 1,
+										"game_asset_url": "sceneref://Room_0/Triggers/IceSkating_Volume"
+									}
+								],
+							"actions": 
+								[
+									{
+										"a": "position",
+										"o": 
+											[
+												28.5,
+												5.18,
+												12.53
+											],
+										"uid": "local"
+									},
+									{
+										"a": "model_set_visible",
+										"uid": "local",
+										"p": 
+											{
+												"method": "Immediate",
+												"visible": false
+											}
+									}
+								]
+						},
+						{
+							"actor_id": "Reindeer_AvakinEating",
+							"components": 
+								[
+									{
+										"type": "volume_trigger",
+										"volume_data": 
+											[
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															-0.8467293,
+															0.129258618,
+															0.38659668
+														],
+													"extents": 
+														[
+															7.84212351,
+															1.29135585,
+															5.12278032
+														],
+													"rotation": 
+														[
+															352.236572,
+															291.2431,
+															2.721766
+														]
+												}
+											],
+										"trigger_type": "local"
+									},
+									{
+										"type": "net_actor_node",
+										"inputs": 
+											[
+												{
+													"input_port": "on",
+													"actions": 
+														[
+															{
+																"a": "model_animation",
+																"r": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"o": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"uid": "local",
+																"p": 
+																	{
+																		"name": "random",
+																		"random_anims": 
+																			[
+																				"Eating",
+																				"Idle01",
+																				"Idle02",
+																				"Rest",
+																				"Roar",
+																				"Attack_Front"
+																			],
+																		"wrap_mode": "loop",
+																		"switch_method": "blend",
+																		"wait_method": "none"
+																	}
+															}
+														]
+												},
+												{
+													"input_port": "off",
+													"actions": 
+														[
+															{
+																"a": "model_animation",
+																"r": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"o": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"uid": "local",
+																"p": 
+																	{
+																		"name": "Eating",
+																		"wrap_mode": "loop",
+																		"switch_method": "blend",
+																		"wait_method": "none"
+																	}
+															}
+														]
+												}
+											],
+										"outputs": 
+											[
+												{
+													"output_port": "volume_trigger_enter_first",
+													"cooldown": 1,
+													"output_port_data": 
+														[
+															{
+																"type": "local_wiring",
+																"actor_id": "Reindeer_AvakinEating",
+																"input_port": "on"
+															}
+														],
+													"restricted_types": 
+														[
+															"avakin",
+															"petkin"
+														]
+												},
+												{
+													"output_port": "volume_trigger_exit_all",
+													"cooldown": 1,
+													"output_port_data": 
+														[
+															{
+																"type": "local_wiring",
+																"actor_id": "Reindeer_AvakinEating",
+																"input_port": "off"
+															}
+														],
+													"restricted_types": 
+														[
+															"avakin",
+															"petkin"
+														]
+												}
+											]
+									},
+									{
+										"type": "model",
+										"version": 1,
+										"game_asset_url": "sceneref://Room_0/Triggers/Reindeer_AvakinEating",
+										"edit_apartment_animation": "Eating",
+										"idle_animation": "Eating",
+										"idle_wrap_mode": "loop"
+									}
+								],
+							"actions": 
+								[
+									{
+										"a": "position",
+										"o": 
+											[
+												-3.534,
+												-0.174,
+												-24.74
+											],
+										"uid": "local"
+									},
+									{
+										"a": "model_set_visible",
+										"uid": "local",
+										"p": 
+											{
+												"method": "Immediate",
+												"visible": true
+											}
+									}
+								]
+						},
+						{
+							"actor_id": "Reindeer_AvakinEating (2)",
+							"components": 
+								[
+									{
+										"type": "volume_trigger",
+										"volume_data": 
+											[
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															0.07506943,
+															0.6324078,
+															1.63671684
+														],
+													"extents": 
+														[
+															7.026572,
+															1.29136026,
+															6.9157815
+														],
+													"rotation": 
+														[
+															4.91215467,
+															14.8779469,
+															357.155823
+														]
+												}
+											],
+										"trigger_type": "local"
+									},
+									{
+										"type": "net_actor_node",
+										"inputs": 
+											[
+												{
+													"input_port": "on",
+													"actions": 
+														[
+															{
+																"a": "model_animation",
+																"r": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"o": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"uid": "local",
+																"p": 
+																	{
+																		"name": "random",
+																		"random_anims": 
+																			[
+																				"Eating",
+																				"Idle01",
+																				"Idle02",
+																				"Rest",
+																				"Roar",
+																				"Attack_Front"
+																			],
+																		"wrap_mode": "loop",
+																		"switch_method": "blend",
+																		"wait_method": "none"
+																	}
+															}
+														]
+												},
+												{
+													"input_port": "off",
+													"actions": 
+														[
+															{
+																"a": "model_animation",
+																"r": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"o": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"uid": "local",
+																"p": 
+																	{
+																		"name": "Eating",
+																		"wrap_mode": "loop",
+																		"switch_method": "blend",
+																		"wait_method": "none"
+																	}
+															}
+														]
+												}
+											],
+										"outputs": 
+											[
+												{
+													"output_port": "volume_trigger_enter_first",
+													"cooldown": 1,
+													"output_port_data": 
+														[
+															{
+																"type": "local_wiring",
+																"actor_id": "Reindeer_AvakinEating (2)",
+																"input_port": "on"
+															}
+														],
+													"restricted_types": 
+														[
+															"avakin",
+															"petkin"
+														]
+												},
+												{
+													"output_port": "volume_trigger_exit_all",
+													"cooldown": 1,
+													"output_port_data": 
+														[
+															{
+																"type": "local_wiring",
+																"actor_id": "Reindeer_AvakinEating (2)",
+																"input_port": "off"
+															}
+														],
+													"restricted_types": 
+														[
+															"avakin",
+															"petkin"
+														]
+												}
+											]
+									},
+									{
+										"type": "model",
+										"version": 1,
+										"game_asset_url": "sceneref://Room_0/Triggers/Reindeer_AvakinEating (2)",
+										"edit_apartment_animation": "Eating",
+										"idle_animation": "Eating",
+										"idle_wrap_mode": "loop"
+									}
+								],
+							"actions": 
+								[
+									{
+										"a": "position",
+										"o": 
+											[
+												-29.756,
+												0.091,
+												-9.386
+											],
+										"uid": "local"
+									},
+									{
+										"a": "model_set_visible",
+										"uid": "local",
+										"p": 
+											{
+												"method": "Immediate",
+												"visible": true
+											}
+									}
+								]
+						},
+						{
+							"actor_id": "Reindeer_AvakinEating (3)",
+							"components": 
+								[
+									{
+										"type": "volume_trigger",
+										"volume_data": 
+											[
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															1.52728653,
+															0.7489888,
+															-0.4368391
+														],
+													"extents": 
+														[
+															7.02656937,
+															1.29136,
+															6.915777
+														],
+													"rotation": 
+														[
+															-2.13443172E-07,
+															119.999992,
+															3.69694817E-07
+														]
+												}
+											],
+										"trigger_type": "local"
+									},
+									{
+										"type": "net_actor_node",
+										"inputs": 
+											[
+												{
+													"input_port": "on",
+													"actions": 
+														[
+															{
+																"a": "model_animation",
+																"r": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"o": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"uid": "local",
+																"p": 
+																	{
+																		"name": "random",
+																		"random_anims": 
+																			[
+																				"Eating",
+																				"Idle01",
+																				"Idle02",
+																				"Rest",
+																				"Roar",
+																				"Attack_Front"
+																			],
+																		"wrap_mode": "loop",
+																		"switch_method": "blend",
+																		"wait_method": "none"
+																	}
+															}
+														]
+												},
+												{
+													"input_port": "off",
+													"actions": 
+														[
+															{
+																"a": "model_animation",
+																"r": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"o": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"uid": "local",
+																"p": 
+																	{
+																		"name": "Eating",
+																		"wrap_mode": "loop",
+																		"switch_method": "blend",
+																		"wait_method": "none"
+																	}
+															}
+														]
+												}
+											],
+										"outputs": 
+											[
+												{
+													"output_port": "volume_trigger_enter_first",
+													"cooldown": 1,
+													"output_port_data": 
+														[
+															{
+																"type": "local_wiring",
+																"actor_id": "Reindeer_AvakinEating (3)",
+																"input_port": "on"
+															}
+														],
+													"restricted_types": 
+														[
+															"avakin",
+															"petkin"
+														]
+												},
+												{
+													"output_port": "volume_trigger_exit_all",
+													"cooldown": 1,
+													"output_port_data": 
+														[
+															{
+																"type": "local_wiring",
+																"actor_id": "Reindeer_AvakinEating (3)",
+																"input_port": "off"
+															}
+														],
+													"restricted_types": 
+														[
+															"avakin",
+															"petkin"
+														]
+												}
+											]
+									},
+									{
+										"type": "model",
+										"version": 1,
+										"game_asset_url": "sceneref://Room_0/Triggers/Reindeer_AvakinEating (3)",
+										"edit_apartment_animation": "Eating",
+										"idle_animation": "Eating",
+										"idle_wrap_mode": "loop"
+									}
+								],
+							"actions": 
+								[
+									{
+										"a": "position",
+										"o": 
+											[
+												-23.729,
+												0.05,
+												16.275
+											],
+										"uid": "local"
+									},
+									{
+										"a": "model_set_visible",
+										"uid": "local",
+										"p": 
+											{
+												"method": "Immediate",
+												"visible": true
+											}
+									}
+								]
+						},
+						{
+							"actor_id": "Fireworks",
+							"components": 
+								[
+									{
+										"type": "volume_trigger",
+										"volume_data": 
+											[
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															17.38,
+															-2.5,
+															-13.94
+														],
+													"extents": 
+														[
+															9.564083,
+															3.339702,
+															18.7065868
+														],
+													"rotation": 
+														[
+															0,
+															12.6671438,
+															0
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															10.226,
+															1.2909,
+															-21.023
+														],
+													"extents": 
+														[
+															1.14768946,
+															1.33588,
+															2.99305439
+														],
+													"rotation": 
+														[
+															0,
+															12.6671438,
+															0
+														]
+												},
+												{
+													"collision_type": "box",
+													"center": 
+														[
+															16.556,
+															2.171,
+															4.5109
+														],
+													"extents": 
+														[
+															1.1476897,
+															1.87023187,
+															2.095135
+														],
+													"rotation": 
+														[
+															0,
+															0,
+															0
+														]
+												}
+											],
+										"trigger_type": "local"
+									},
+									{
+										"type": "net_actor_node",
+										"inputs": 
+											[
+												{
+													"input_port": "on",
+													"actions": 
+														[
+															{
+																"a": "model_animation",
+																"r": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"o": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"uid": "local",
+																"p": 
+																	{
+																		"name": "Fireworks",
+																		"wrap_mode": "loop",
+																		"switch_method": "blend",
+																		"wait_method": "none"
+																	}
+															}
+														]
+												},
+												{
+													"input_port": "off",
+													"actions": 
+														[
+															{
+																"a": "model_animation",
+																"r": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"o": 
+																	[
+																		0,
+																		0,
+																		0
+																	],
+																"uid": "local",
+																"p": 
+																	{
+																		"name": "Fireworks_Off",
+																		"wrap_mode": "loop",
+																		"switch_method": "blend",
+																		"wait_method": "none"
+																	}
+															}
+														]
+												}
+											],
+										"outputs": 
+											[
+												{
+													"output_port": "volume_trigger_enter_first",
+													"cooldown": 0.5,
+													"output_port_data": 
+														[
+															{
+																"type": "local_wiring",
+																"actor_id": "Fireworks",
+																"input_port": "on"
+															}
+														],
+													"restricted_types": 
+														[
+															"avakin",
+															"petkin"
+														]
+												},
+												{
+													"output_port": "volume_trigger_exit_all",
+													"cooldown": 0.5,
+													"output_port_data": 
+														[
+															{
+																"type": "local_wiring",
+																"actor_id": "Fireworks",
+																"input_port": "off"
+															}
+														],
+													"restricted_types": 
+														[
+															"avakin",
+															"petkin"
+														]
+												}
+											]
+									},
+									{
+										"type": "model",
+										"version": 1,
+										"game_asset_url": "sceneref://Room_0/Triggers/Fireworks",
+										"edit_apartment_animation": "Fireworks",
+										"idle_animation": "Fireworks_Off",
+										"idle_wrap_mode": "loop"
+									}
+								],
+							"actions": 
+								[
+									{
+										"a": "position",
+										"o": 
+											[
+												0,
+												0,
+												0
+											],
+										"uid": "local"
+									},
+									{
+										"a": "model_set_visible",
+										"uid": "local",
+										"p": 
+											{
+												"method": "Immediate",
+												"visible": true
+											}
+									}
+								]
+						}
+					]
+			},
+			{}
+		]
+}
